@@ -1,5 +1,7 @@
-## Elaborado por Miguel Angel Rodriguez Hernadez
-## introduccion 
+## programacion avansada 
+# 18 de febrero del 2025
+# Elaborado por Miguel Angel Rodriguez Hernadez
+# introduccion 
 En el sector financiero, la evaluación de solicitudes de préstamo es un proceso 
 crítico para minimizar riesgos y optimizar la aprobación de créditos. 
 Tradicionalmente, esta evaluación ha sido realizada por analistas financieros, pero 
