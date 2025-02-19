@@ -23,7 +23,7 @@ préstamo mediante un perceptrón que evalúe los siguientes factores clave:
 
 La institución proporciona un conjunto de datos históricos con ejemplos de 
 solicitudes aprobadas y rechazadas. El perceptrón debe aprender a clasificar 
-correctamente cada solicitud.
+correctamente cada solicitud. 
 
 
 ``` import numpy as np
