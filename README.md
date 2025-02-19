@@ -13,10 +13,15 @@ financieras relevantes.
 ## Problema a Resolver 
 Una institución financiera desea automatizar la clasificación de solicitudes de 
 préstamo mediante un perceptrón que evalúe los siguientes factores clave: 
+
  Puntaje de crédito: Valor numérico entre 300 y 850. 
+
  Ingresos mensuales: Expresado en miles de pesos. 
+
  Monto del préstamo solicitado: Expresado en miles de pesos. 
+
  Relación deuda/ingresos: Valor decimal (por ejemplo, 0.2, 0.5, etc.). 
+
 La institución proporciona un conjunto de datos históricos con ejemplos de 
 solicitudes aprobadas y rechazadas. El perceptrón debe aprender a clasificar 
 correctamente cada solicitud.
